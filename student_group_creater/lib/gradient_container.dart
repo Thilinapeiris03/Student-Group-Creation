@@ -1,9 +1,3 @@
-/// Flutter Course - Session 2
-/// Date: 11th November 2023
-/// Auther: Shelan Cooray
-/// Email: shlncooray@gmail.com
-/// gradient_container.dart - Body Container of the application
-
 import 'package:flutter/material.dart';
 import 'package:roller_dice_game/enter_names.dart';
 import 'package:roller_dice_game/new_game.dart';

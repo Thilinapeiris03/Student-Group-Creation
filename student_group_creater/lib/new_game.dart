@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:roller_dice_game/enter_names.dart';
 
 class NewGame extends StatefulWidget {
   const NewGame({super.key});
